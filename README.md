@@ -9,7 +9,7 @@ As part of the redevelopment of my ADK46erNow app I needed to be able to tap on 
 
 ## Features
 
-<ol>
+<ul>
 <li>A parent panel with a date scrolling panel and a time scrolling panel.</li>
 <li>The parent panel is hidden off scene by default.</li>
 <li>A test date field and a test time field.</li>
@@ -19,6 +19,7 @@ As part of the redevelopment of my ADK46erNow app I needed to be able to tap on 
 <li>If the date or time field is already populated, then tapping the field will pre-populate the picker.</li>
 <li>If the date or time field is blank then the pickers default to the current date and time.</li>
 <li>The day scrollview will adjust its days based on the selected month and year (and takes into account leap years).</li>
+</ul>
 
 ## About The Code
 
@@ -28,19 +29,21 @@ A PDF document diagramming the code architecture is available and may help to vi
 
 ## Installation
 
-Download this repo.
-New Project:
-Create 2D Universal project
-Import "DateTimePicker.unitypackage"
-Delete "Sample Scene"
-Select "DateTimePicker" scene
-Select "SceneTitle" under "SceneTitleBar"
-If asked, "Import TMP Essentials"
-You may need to quit the Unity project and relaunch it to see the text in the scene.
-Existing Project:
-After downloading take the individual resources and add them to your project (scripts, images, scene, prefabs) manually or by importing "DateTimePicker.unitypackage".
-Run the "DateTimePicker" scene!
-Update the code as needed for your projects.
+<ul>
+<li>Download this repo.</li>
+<li>New Project:</li>
+<li>Create 2D Universal project</li>
+<li>Import "DateTimePicker.unitypackage"</li>
+<li>Delete "Sample Scene"</li>
+<li>Select "DateTimePicker" scene</li>
+<li>Select "SceneTitle" under "SceneTitleBar"</li>
+<li>If asked, "Import TMP Essentials"</li>
+<li>You may need to quit the Unity project and relaunch it to see the text in the scene.</li>
+<li>Existing Project:</li>
+<li>After downloading take the individual resources and add them to your project (scripts, images, scene, prefabs) manually or by importing "DateTimePicker.unitypackage".</li>
+<li>Run the "DateTimePicker" scene!</li>
+<li>Update the code as needed for your projects.</li>
+</ul>
 
 ## License
 

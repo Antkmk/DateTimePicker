@@ -9,15 +9,16 @@ As part of the redevelopment of my ADK46erNow app I needed to be able to tap on 
 
 ## Features
 
-A parent panel with a date scrolling panel and a time scrolling panel.
-The parent panel is hidden off scene by default.
-A test date field and a test time field.
-Tapping the date or time field animates the appearance of the parent panel and enables the respective scroller.
-The date scrollview allows scrolling through days, months and years. The time scrollview supports hour and minute scrolling.
-The picker panel is dismissed using the "Cancel" (no change to the data in the date or time field, "Clear" (empties the value out of the calling field), or "Save" (updates the calling field with the new date or time) button.
-If the date or time field is already populated, then tapping the field will pre-populate the picker.
-If the date or time field is blank then the pickers default to the current date and time.
-The day scrollview will adjust its days based on the selected month and year (and takes into account leap years).
+<ol>
+<li>A parent panel with a date scrolling panel and a time scrolling panel.</li>
+<li>The parent panel is hidden off scene by default.</li>
+<li>A test date field and a test time field.</li>
+<li>Tapping the date or time field animates the appearance of the parent panel and enables the respective scroller.</li>
+<li>The date scrollview allows scrolling through days, months and years. The time scrollview supports hour and minute scrolling.</li>
+<li>The picker panel is dismissed using the "Cancel" (no change to the data in the date or time field, "Clear" (empties the value out of the calling field), or "Save" (updates the calling field with the new date or time) button.</li>
+<li>If the date or time field is already populated, then tapping the field will pre-populate the picker.</li>
+<li>If the date or time field is blank then the pickers default to the current date and time.</li>
+<li>The day scrollview will adjust its days based on the selected month and year (and takes into account leap years).</li>
 
 ## About The Code
 

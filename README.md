@@ -32,7 +32,7 @@ A PDF document diagramming the code architecture is available and may help to vi
 <ul>
 <li>Download this repo.</li>
 <li>New Project:</li>
-<li>Create 2D Universal project</li>
+<li>- Create 2D Universal project</li>
 <li>Import "DateTimePicker.unitypackage"</li>
 <li>Delete "Sample Scene"</li>
 <li>Select "DateTimePicker" scene</li>

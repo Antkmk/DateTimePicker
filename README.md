@@ -30,7 +30,8 @@ A PDF document diagramming the code architecture is available and may help to vi
 ## Installation
 
 * Download this repo.
-*__New Project:__
+  
+__New Project:__
 * Create 2D Universal project
 * Import "DateTimePicker.unitypackage"
 * Delete "Sample Scene"
@@ -38,7 +39,8 @@ A PDF document diagramming the code architecture is available and may help to vi
 * Select "SceneTitle" under "SceneTitleBar"
 * If asked, "Import TMP Essentials"
 * You may need to quit the Unity project and relaunch it to see the text in the scene.
-*__Existing Project:__
+  
+__Existing Project:__
 * After downloading take the individual resources and add them to your project (scripts, images, scene, prefabs) manually or by importing "DateTimePicker.unitypackage".
 * Run the "DateTimePicker" scene!
 * Update the code as needed for your projects.

@@ -27,7 +27,7 @@ As part of the redevelopment of my ADK46erNow app I needed to be able to tap on 
 
 It's free! Download it, use it, modify it!
 I developed this as standalone code you can incorporate into your own projects. It's not "pretty", nor is it meant to be. That's up to you. I will be tailoring this code for the new ADK46erNow app and it will be gorgeous!
-A PDF document diagramming the code architecture is available and may help to visualize where everything lives and how the various objects communicate with each other.
+A PDF document diagramming the code architecture is available inside the "docs" directory and may help to visualize where everything lives and how the various objects communicate with each other.
 
 ## Installation
 

@@ -7,6 +7,8 @@ I didn't expect to build a utility to handle activating a scrolling date and tim
 
 As part of the redevelopment of my ADK46erNow app I needed to be able to tap on a date or time field and have a window or panel appear allowing me to scroll through months, days, years or hours and minutes. And I had to develop it in C# since I'm converting this app from Solar2D using Lua to Unity using C#.
 
+![image](docs/picker_screens.png)
+
 ## Features
 
 <ul>

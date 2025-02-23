@@ -31,7 +31,7 @@ A PDF document diagramming the code architecture is available and may help to vi
 
 ## Installation
 
-* Download this repo.
+* Download this repo. The two directories that are important are the "Assets" and the "UnityPackage".
   
 __New Project:__
 * Create 2D Universal project

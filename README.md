@@ -54,6 +54,14 @@ __Existing Project:__
 * Run the "DateTimePicker" scene!
 * Update the code as needed for your projects.
 
+<!-- BUILT WITH -->
+## Built With
+
+<ul>
+  <li>Visual Studio Code version 1.97.2</li>
+  <li>Unity Editor version 6 (6000.0.24f1)</li>
+</ul>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge

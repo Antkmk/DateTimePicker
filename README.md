@@ -1,6 +1,5 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][Twitter-shield]][Twitter-url]
 [![Facebook][Facebook-shield]][Facebook-url]
 [![OBA][OBA-shield]][OBA-url]
 [![Paypal][Paypal-shield]][Paypal-url]

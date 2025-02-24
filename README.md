@@ -50,7 +50,7 @@ __New Project:__
 * You may need to quit the Unity project and relaunch it to see the text in the scene.
   
 __Existing Project:__
-* After downloading take the individual resources and add them to your project (scripts, images, scene, prefabs) manually or by importing "DateTimePicker.unitypackage" (in the "UnityPackage" directory).
+* After downloading take the individual assets and add them to your project (scripts, images, scene, prefabs) manually or by importing "DateTimePicker.unitypackage" (in the "UnityPackage" directory).
 * Run the "DateTimePicker" scene!
 * Update the code as needed for your projects.
 

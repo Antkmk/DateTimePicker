@@ -1,3 +1,10 @@
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter][Twitter-shield]][Twitter-url]
+[![Facebook][Facebook-shield]][Facebook-url]
+[![OBA][OBA-shield]][OBA-url]
+[![Paypal][Paypal-shield]][Paypal-url]
+
 # DateTimePicker
 Unity C# implementation of a date and time picker scrollview
 
@@ -47,6 +54,22 @@ __Existing Project:__
 * Run the "DateTimePicker" scene!
 * Update the code as needed for your projects.
 
-## License
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/keithkubarek/
+[Twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=Twitter&colorB=555
+[Twitter-url]: https://twitter.com/antkmk
+[Facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=for-the-badge&logo=Facebook&colorB=555
+[Facebook-url]: https://www.facebook.com/Onebadant/
+[product-screenshot]: images/screenshot.png
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[OBA-shield]: https://img.shields.io/badge/website-555555?style=for-the-badge&logo=About.me&logoColor=white
+[OBA-url]: https://onebadant.com/
+
+[Paypal-shield]: https://img.shields.io/badge/PayPal-555555?style=for-the-badge&logo=paypal&logoColor=white
+[Paypal-url]: https://www.paypal.com/donate/?hosted_button_id=JC9LWKY2YK252
